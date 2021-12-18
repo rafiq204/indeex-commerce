@@ -1,0 +1,47 @@
+
+
+.carousal-bg{
+   background-color: #fceae8;
+   border-radius: 1em;
+}
+
+
+
+
+
+
+.catagories img{
+    width: 100px;
+
+}
+.catagories-bg-1{
+    background-color: #ffa500;
+    border-radius: 10px;
+}
+.catagories-bg-2{
+    background-color: #da70d6;
+    border-radius: 10px;
+}
+.catagories-bg-3{
+    background-color: #0000ff;
+    border-radius: 10px;
+}
+.btn-color{
+    background-color: #ff4a92;
+    color: #ffffff;
+    border-radius: 6px;
+    width: 110px;
+}
+.shoe{
+    border: 0;
+    border-radius: 5px;
+}
+.shoe-footer{
+    border: 0;
+    background-color: white;
+}
+.touch{
+    height: 300px;
+    background-color: #fceae8;
+    border-radius: 1em;
+}
